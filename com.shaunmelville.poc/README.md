@@ -6,12 +6,12 @@
 2. Spring JPA
 3. Spring Security
 4. Spring Rest Controller
-5. JSON Web Tokens (JWT) with HS512 signature
+5. JSON Web Tokens (JWT) with HS512 signature algoritm
 6. Posgresql
 6. Docker
 7. Docker Compose
  
- ### Technology notes
+### Technology notes
 1. The back end server was developed using Spring boot.
 2. REST Get and Post controllers implemented.
 3. All service end points are secured using Spring Security.
