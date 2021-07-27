@@ -27,10 +27,11 @@ The POC project for CSGI is a fully Spring Boot application. You should be able 
 2. Clone git repo: git clone https://github.com/shaunmelville/csgi.gi
 3. Start Spring Tool Suite
 4. Set workspace as the csgi folder
-5. Import Existing maven project under com.shaunmelville.poc folder.
+5. Import Existing maven project under the folder "com.shaunmelville.poc folder".
 6. Run project as Spring Boot application
 
 ### B. Build App
+1. Chane to directory "com.shaunmelville.poc"
 1. mvn clean install -DskipTests
 2. sudo docker build --rm --force-rm -t poc:0.0.1.base .
 
