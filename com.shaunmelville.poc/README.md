@@ -19,7 +19,7 @@
 5. All subsequent calls to the backend must have the JWT bearer token present to be able to use the service.
 6. JPA is used for database operations
 
-##Installation
+## Installation
 ### Install Docker
 1. Install Docker: https://docs.docker.com/get-docker/
 2. Install Docker compose: https://docs.docker.com/compose/install/
