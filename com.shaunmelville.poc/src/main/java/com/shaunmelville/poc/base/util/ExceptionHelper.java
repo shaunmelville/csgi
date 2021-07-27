@@ -7,6 +7,13 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
+/**
+ * 
+ * @author shaun
+ * 
+ *         Exception helper. Must expand to sanitize exceptions.
+ *
+ */
 @ControllerAdvice
 public class ExceptionHelper {
 
